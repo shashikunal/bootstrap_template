@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Modern Business](https://startbootstrap.com/template-overviews/modern-business/)
 
 [Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
@@ -60,3 +61,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-modern-business/blob/gh-pages/LICENSE) license.
+=======
+# bootstrap_template
+we are learning html , javascript , nodejs , mongodb , mean , firebase
+>>>>>>> e03ade1ae976e667dac2cc7c5ea727988b53a954
